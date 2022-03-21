@@ -1,2 +1,2 @@
-# paintingwithjs
+# clonPaintingwithjs
 painting web
