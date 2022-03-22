@@ -2,4 +2,4 @@
 Nomad coders, 
 painting web
 
-https://saans808.github.io/clonPaintingwithjs/
+https://saans808.github.io/clon-Paintingwithjs/
