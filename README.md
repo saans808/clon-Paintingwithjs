@@ -1,3 +1,3 @@
 # clonPaintingwithjs
-Nomad coders/n
+Nomad coders, 
 painting web
